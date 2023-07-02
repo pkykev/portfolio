@@ -5,7 +5,7 @@
 
 ## Deployment
 
-<a href ="https://pkykev.github.io/pkev-semantic-html/">Semantic-HTML-Exercise</a>
+<a href ="https://pkykev.github.io/portfolio/">Portfolio creation exercise</a>
 
 ## Screenshot
 
